@@ -10,3 +10,7 @@ http://127.0.0.1:8080/
 - Flask app using Azure SDK for Blob Storage
 - VM created in East US region with public IP
 - VNet + Subnet setup
+
+
+Here iam attaching the screen shot of working app:
+<img width="512" height="255" alt="image" src="https://github.com/user-attachments/assets/05708ad8-9f30-476b-952b-41395380fd44" />
